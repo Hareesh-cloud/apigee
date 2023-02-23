@@ -1,0 +1,13 @@
+package com.example.apigee;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApigeeApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ApigeeApplication.class, args);
+	}
+
+}
